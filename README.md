@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272A4&height=150&section=header%22"/>
 
-## A bit about me
+# A bit about me
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2300&pause=200&color=EBEBEB&width=500&height=80&lines=+Hi+there+%F0%9F%91%8B;My+name+is+Arthur+Gabriel;I'm+18+years+old;and+I'm+a+Data+Science+student.;I'm+a+former+ethical+hacker;AI+developer%2C+and+work+in+IT;My+skills+include;SQL;Python;and+a+bit+of+R;as+well+as+knowledge+in+HTML5;CSS3;and+TypeScript)](https://git.io/typing-svg)
 
