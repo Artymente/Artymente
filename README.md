@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2300&pause=200&color=EBEBEB&width=500&height=80&lines=+Hi+there+%F0%9F%91%8B;My+name+is+Arthur+Gabriel;I'm+19+years+old;and+I'm+a+Data+Science+student.;I'm+a+former+ethical+hacker;AI+developer%2C+and+work+in+IT;My+skills+include;SQL;Python;and+a+bit+of+R;as+well+as+knowledge+in+HTML5;CSS3;and+TypeScript)](https://git.io/typing-svg)
 
 ####  You can find me on social media at
-[![linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurgabriel_oficial_)&nbsp;
+[![linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-gabriel-a-souza-924b1827b/)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurgabriel_oficial_)&nbsp;
 
 
 
@@ -18,7 +18,7 @@
 If you have any questions, suggestions, or just want to chat, feel free to reach out:
 
 - Email: artymente@outlook.com.br
-- LinkedIn: -------
+- LinkedIn: https://www.linkedin.com/in/arthur-gabriel-a-souza-924b1827b
 
 <!--
 **Artymente/Artymente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
